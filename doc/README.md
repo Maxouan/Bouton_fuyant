@@ -1,6 +1,6 @@
 # Bouton Fuyant
 
-Ce projet est une application graphique simple créée avec `tkinter` où un bouton s'éloigne du curseur de la souris. De plus, un bouton en haut à gauche permet d'ouvrir une vidéo sur YouTube, et un autre bouton affiche une fenêtre de félicitations avec un texte clignotant.
+Ce projet est une application graphique simple créée avec `tkinter` et `webbrowser` où un bouton s'éloigne du curseur de la souris. De plus, un bouton en haut à gauche permet d'ouvrir une vidéo sur YouTube, et un autre bouton affiche une fenêtre de félicitations avec un texte clignotant.
 
 ## Installation
 
