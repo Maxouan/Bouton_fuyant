@@ -1,6 +1,7 @@
 import pytest
+import tkinter as tk
 from tkinter import Tk
-from src.main import eloigner_bouton
+import eloigner_bouton
 
 def test_eloigner_bouton():
     fenetre = Tk()
