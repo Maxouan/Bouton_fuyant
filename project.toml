@@ -2,7 +2,7 @@
 name = "bouton_fuyant"
 version = "0.1.0"
 description = "Un projet Python avec tkinter où le bouton s'éloigne du curseur."
-authors = ["Votre Nom <votre.email@example.com>"]
+authors = ["VAlentin Videment, Maxouan Nion"]
 license = "MIT"
 
 [tool.poetry.dependencies]
